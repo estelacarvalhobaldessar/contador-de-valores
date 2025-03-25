@@ -1,6 +1,30 @@
 #caixa{
+    font-size: 150px;
     background-color: dimgray;
-    width: 400px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
+    margin-left: 160px;
     justify-content: center;
+}
+#trocaMais{
+    background-color:cadetblue; 
+    width: 150px;
+    height: 300px;
+    margin-top: -300px;
+}
+#trocaMenos{
+    background-color:cadetblue; 
+    width: 150px;
+    height: 300px;
+    margin-left: 470px;
+    margin-top: -300px;
+}
+.mais{
+    width: 150px;
+    margin-top: 90px;
+}
+.menos{
+    width: 250px;
+    margin-top: 71px;
+    margin-left: -50px ;
 }
